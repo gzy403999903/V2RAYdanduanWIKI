@@ -1,4 +1,4 @@
-
+<div class="post-content">
 <p>搭建 V2Ray 看这篇文章就够了！这是完完全全为小白准备的 V2Ray 搭建教程，详细的图文教程确保你可以百分百成功搭建 V2Ray 使用。</p>
 
 <h2 id="前言">前言</h2>
@@ -450,9 +450,9 @@ Location 选择: <code>HK - Hong Kong xxxxx</code> （如果你购买的是香�
 然后 <code>Complete Order</code></p>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -576,9 +576,9 @@ Location 选择: <code>HK - Hong Kong xxxxx</code> （如果你购买的是香�
 </code></pre>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -633,7 +633,8 @@ OK，按回车继续</p>
 <p>暂停一下，我想，看这篇的孩子多数都是萌新，由于 V2Ray 已经安装完成了，所以此时你应该尝试使用 V2Ray 来连接上真正的互联网了。</p>
 
 <blockquote>
-<p><a href="https://v2ray6.com/post/4/">V2Ray 客户端使用教程</a></p>
+<p>Windows<br />
+<a href="https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" rel="nofollow" target="_blank">V2RayN使用教程</a></p>
 </blockquote>
 
 <h2 id="v2ray-管理面板">V2Ray 管理面板</h2>
@@ -654,26 +655,26 @@ OK，按回车继续</p>
 <h2 id="快速管理-v2ray">快速管理 V2Ray</h2>
 
 <p><code>v2ray info</code> 查看 V2Ray 配置信息<br />
-<code>v2ray config</code> 修改 V2Ray 配置<br />
-<code>v2ray link</code> 生成 V2Ray 配置文件链接<br />
-<code>v2ray infolink</code> 生成 V2Ray 配置信息链接<br />
-<code>v2ray qr</code> 生成 V2Ray 配置二维码链接<br />
-<code>v2ray ss</code> 修改 Shadowsocks 配置<br />
-<code>v2ray ssinfo</code> 查看 Shadowsocks 配置信息<br />
-<code>v2ray ssqr</code> 生成 Shadowsocks 配置二维码链接<br />
-<code>v2ray status</code> 查看 V2Ray 运行状态<br />
-<code>v2ray start</code> 启动 V2Ray<br />
-<code>v2ray stop</code> 停止 V2Ray<br />
-<code>v2ray restart</code> 重启 V2Ray<br />
-<code>v2ray log</code> 查看 V2Ray 运行日志<br />
-<code>v2ray update</code> 更新 V2Ray<br />
-<code>v2ray update.sh</code> 更新 V2Ray 管理脚本<br />
-<code>v2ray uninstall</code> 卸载 V2Ray</p>
+ <code>v2ray config</code> 修改 V2Ray 配置<br />
+ <code>v2ray link</code> 生成 V2Ray 配置文件链接<br />
+ <code>v2ray infolink</code> 生成 V2Ray 配置信息链接<br />
+ <code>v2ray qr</code> 生成 V2Ray 配置二维码链接<br />
+ <code>v2ray ss</code> 修改 Shadowsocks 配置<br />
+ <code>v2ray ssinfo</code> 查看 Shadowsocks 配置信息<br />
+ <code>v2ray ssqr</code> 生成 Shadowsocks 配置二维码链接<br />
+ <code>v2ray status</code> 查看 V2Ray 运行状态<br />
+ <code>v2ray start</code> 启动 V2Ray<br />
+ <code>v2ray stop</code> 停止 V2Ray<br />
+ <code>v2ray restart</code> 重启 V2Ray<br />
+ <code>v2ray log</code> 查看 V2Ray 运行日志<br />
+ <code>v2ray update</code> 更新 V2Ray<br />
+ <code>v2ray update.sh</code> 更新 V2Ray 管理脚本<br />
+ <code>v2ray uninstall</code> 卸载 V2Ray</p>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -752,11 +753,11 @@ ISP 常作怪，用 动态端口<br />
 
 <p>请先查阅：<a href="https://v2ray6.com/post/10/">V2Ray 一键安装脚本疑问集合</a><br />
 Telegram 群组：<a href="https://t.me/blog233" rel="nofollow" target="_blank">
-https://t.me/blog233 
+     https://t.me/blog233 
 </a>
 <br />
 Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" target="_blank">
-https://github.com/233boy/v2ray/issues 
+     https://github.com/233boy/v2ray/issues 
 </a>
 <br />
 任何有关于 V2Ray 的问题，请自行到 V2Ray 官方反馈。<br />
@@ -774,7 +775,7 @@ https://github.com/233boy/v2ray/issues
 <h2 id="资助-v2ray">资助 V2Ray</h2>
 
 <p>如果你觉得 V2Ray 很好用，能解决你的某些问题，请考虑 <a href="https://www.v2ray.com/chapter_00/02_donate.html" rel="nofollow" target="_blank">
-资助 V2Ray 发展  
+     资助 V2Ray 发展  
 </a>
 。</p>
 
