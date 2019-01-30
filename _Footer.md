@@ -1,1 +1,1 @@
-备用
+[返回主页](https://github.com/233boy/v2ray/wiki)
