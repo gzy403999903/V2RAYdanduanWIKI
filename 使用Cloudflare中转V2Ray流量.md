@@ -103,4 +103,6 @@ Windows<br />
 <h2 id="结束">结束</h2>
 
 <p>哇，没有图文教程你就看不懂的话，我能怎么办，我也很绝望，我更加迷茫</p>
+
+<p><img src="https://affpass.com/ga?ga=UA-124886845-2&amp;dt=github.wiki.5&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/5" alt="" /></p>
 </div>

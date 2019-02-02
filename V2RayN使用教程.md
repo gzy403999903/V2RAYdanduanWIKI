@@ -1,3 +1,4 @@
+<div class="post-content">
 <p>V2RayN 是 PC 平台上一个对新手比较友好的 V2Ray Windows 客户端。写个简单的 V2RayN 使用教程帮助新手</p>
 
 <h2 id="备注">备注</h2>
@@ -12,7 +13,7 @@
 </blockquote>
 
 <p>下载链接：<a href="https://github.com/2dust/v2rayN/releases/latest" rel="nofollow" target="_blank">
-https://github.com/2dust/v2rayN/releases/latest 
+     https://github.com/2dust/v2rayN/releases/latest 
 </a>
 </p>
 
@@ -30,9 +31,9 @@ https://github.com/2dust/v2rayN/releases/latest
 输入 <code>v2ray url</code></p>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -66,9 +67,9 @@ https://github.com/2dust/v2rayN/releases/latest
 之后在 V2RayN 主界面，找到 检查更新 》检查更新 PAC</p>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -76,9 +77,9 @@ https://github.com/2dust/v2rayN/releases/latest
 
 <p>在完成上面的步骤的时候，正常来说，你已经处于翻出去的状态了<br />
 OK，此时你已经自由了，赶紧打开 <a href="https://www.google.com/ncr" rel="nofollow" target="_blank">
-Google  
+     Google  
 </a>
-找部十八减的大电影喵喵吧。哈哈</p>
+ 找部十八减的大电影喵喵吧。哈哈</p>
 
 <p><strong>备注一，如果你浏览器有使用 Proxy SwitchyOmega ，请点击它的图标然后选择 系统代理</strong><br />
 <strong>备注二，如果你在使用 Firefox 浏览器，打开选项，找到网络代理，再选上 使用系统代理</strong></p>
@@ -92,7 +93,7 @@ Google
 <h2 id="firefox-火狐浏览器">Firefox (火狐浏览器)</h2>
 
 <p>(什么？没有在使用 Firefox ，那赶紧来试用吧，<a href="https://www.mozilla.org/zh-CN/firefox/" rel="nofollow" target="_blank">
-Firefox Quantum，更好的浏览器。  
+     Firefox Quantum，更好的浏览器。  
 </a>
 )<br />
 打开选项，找到网络代理</p>
@@ -108,9 +109,9 @@ Firefox Quantum，更好的浏览器。
 
 
 <p>OK，此时你已经自由了，赶紧打开 <a href="https://www.google.com/ncr" rel="nofollow" target="_blank">
-Google  
+     Google  
 </a>
-找部十八减的大电影喵喵吧。哈哈</p>
+ 找部十八减的大电影喵喵吧。哈哈</p>
 
 <h2 id="chrome-谷歌浏览器">Chrome (谷歌浏览器)</h2>
 
@@ -120,7 +121,7 @@ Google
 <p>手动安装如下：<br />
 在 Chrome 地址栏输入 <strong>chrome://extensions</strong> 打开扩展程序，之后<br />
 下载 <a href="https://github.com/FelisCatus/SwitchyOmega/releases" rel="nofollow" target="_blank">
-Proxy SwitchyOmega   
+     Proxy SwitchyOmega   
 </a>
 ，打开链接后，找到 SwitchyOmega_Chromium.crx 下载，将下载完后的文件拖动到刚才打开的扩展程序的标签进行安装<br />
 然后点击 添加扩展程序 即可</p>
@@ -137,14 +138,14 @@ Proxy SwitchyOmega
 
 
 <p>选择 导入/导出，在线恢复，输入：<a href="https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList.bak" rel="nofollow" target="_blank">
-https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList.bak 
+     https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList.bak 
 </a>
 </p>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -165,9 +166,9 @@ https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList.bak
 
 
 <p>OK，此时你已经自由了，赶紧打开 <a href="https://www.google.com/ncr" rel="nofollow" target="_blank">
-Google  
+     Google  
 </a>
-找部十八减的大电影喵喵吧。哈哈</p>
+ 找部十八减的大电影喵喵吧。哈哈</p>
 
 <h2 id="结束">结束</h2>
 
@@ -175,3 +176,6 @@ Google
 如果你有使用 Proxy SwitchyOmega<br />
 V2RayN 设置的那个 本地鉴听端口 可以随便修改的，如果你修改了，Proxy SwitchyOmega 那边也要设置成对应的端口就行<br />
 啊~生活如此美好</p>
+
+<p><img src="https://affpass.com/ga?ga=UA-124886845-2&amp;dt=github.wiki.8&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/8" alt="" /></p>
+</div>

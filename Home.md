@@ -25,4 +25,6 @@
 <p>担心 IP 被墙？或者不想 IP 被墙？是的！使用 Cloudflare 来中转 V2Ray 的 WebSocket 流量就行！</p>
 
 <p><a href="https://github.com/233boy/v2ray/wiki/%E4%BD%BF%E7%94%A8Cloudflare%E4%B8%AD%E8%BD%ACV2Ray%E6%B5%81%E9%87%8F" rel="nofollow" target="_blank">使用Cloudflare中转V2Ray流量</a></p>
+
+<p><img src="https://affpass.com/ga?ga=UA-124886845-2&amp;dt=github.wiki.home&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/home" alt="" /></p>
 </div>

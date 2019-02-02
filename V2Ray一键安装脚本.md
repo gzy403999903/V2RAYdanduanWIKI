@@ -272,5 +272,5 @@ chmod +x install.sh
 <p>请勿违反国家法律法规，否则后果自负！<br />
 使用一键脚本并不会害了你，并且会让你节省大量的时间，工具从来都是为了更快的解决问题。</p>
 
-<p><img src="https://affpass.com/ga?ga=UA-124886845-2&amp;dt=V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/1" alt="" /></p>
+<p><img src="https://affpass.com/ga?ga=UA-124886845-2&amp;dt=github.wiki.1&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/1" alt="" /></p>
 </div>
