@@ -783,4 +783,6 @@ Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" 
 
 <p>我有写少了什么吗？我这种小小白萌新看了这教程都觉得很明白了啊。<br />
 一次不会，那么就两次，还是不会，那就再来一次。可还是不会啊？大佬请收下我的膝盖。</p>
+
+<p><img src="https://affpass.com/ga?ga=UA-124886845-2&amp;dt=V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/2" alt="" /></p>
 </div>
