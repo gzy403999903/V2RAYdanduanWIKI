@@ -1,3 +1,4 @@
+<div class="post-content">
 <p>支持 V2Ray 绝大多数传输协议，WebSocket + TLS，HTTP/2，Shadowsocks，动态端口，集成 BBR 和锐速优化等。</p>
 
 <h2 id="前言">前言</h2>
@@ -74,9 +75,9 @@ v3 版本，更加好用了。新年快乐！<br />
 </code></pre>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -117,9 +118,9 @@ centos 系统安装 Curl 方法: <code>yum update -y &amp;&amp; yum install curl
 
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -142,21 +143,21 @@ centos 系统安装 Curl 方法: <code>yum update -y &amp;&amp; yum install curl
 <h2 id="快速管理">快速管理</h2>
 
 <p><code>v2ray info</code> 查看 V2Ray 配置信息<br />
-<code>v2ray config</code> 修改 V2Ray 配置<br />
-<code>v2ray link</code> 生成 V2Ray 配置文件链接<br />
-<code>v2ray infolink</code> 生成 V2Ray 配置信息链接<br />
-<code>v2ray qr</code> 生成 V2Ray 配置二维码链接<br />
-<code>v2ray ss</code> 修改 Shadowsocks 配置<br />
-<code>v2ray ssinfo</code> 查看 Shadowsocks 配置信息<br />
-<code>v2ray ssqr</code> 生成 Shadowsocks 配置二维码链接<br />
-<code>v2ray status</code> 查看 V2Ray 运行状态<br />
-<code>v2ray start</code> 启动 V2Ray<br />
-<code>v2ray stop</code> 停止 V2Ray<br />
-<code>v2ray restart</code> 重启 V2Ray<br />
-<code>v2ray log</code> 查看 V2Ray 运行日志<br />
-<code>v2ray update</code> 更新 V2Ray<br />
-<code>v2ray update.sh</code> 更新 V2Ray 管理脚本<br />
-<code>v2ray uninstall</code> 卸载 V2Ray</p>
+ <code>v2ray config</code> 修改 V2Ray 配置<br />
+ <code>v2ray link</code> 生成 V2Ray 配置文件链接<br />
+ <code>v2ray infolink</code> 生成 V2Ray 配置信息链接<br />
+ <code>v2ray qr</code> 生成 V2Ray 配置二维码链接<br />
+ <code>v2ray ss</code> 修改 Shadowsocks 配置<br />
+ <code>v2ray ssinfo</code> 查看 Shadowsocks 配置信息<br />
+ <code>v2ray ssqr</code> 生成 Shadowsocks 配置二维码链接<br />
+ <code>v2ray status</code> 查看 V2Ray 运行状态<br />
+ <code>v2ray start</code> 启动 V2Ray<br />
+ <code>v2ray stop</code> 停止 V2Ray<br />
+ <code>v2ray restart</code> 重启 V2Ray<br />
+ <code>v2ray log</code> 查看 V2Ray 运行日志<br />
+ <code>v2ray update</code> 更新 V2Ray<br />
+ <code>v2ray update.sh</code> 更新 V2Ray 管理脚本<br />
+ <code>v2ray uninstall</code> 卸载 V2Ray</p>
 
 <h2 id="配置文件路径">配置文件路径</h2>
 
@@ -199,11 +200,11 @@ Caddy 配置文件路径：/etc/caddy/Caddyfile<br />
 
 <p>请先查阅：<a href="https://v2ray6.com/post/10/">V2Ray 一键安装脚本疑问集合</a><br />
 Telegram 群组：<a href="https://t.me/blog233" rel="nofollow" target="_blank">
-https://t.me/blog233 
+     https://t.me/blog233 
 </a>
 <br />
 Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" target="_blank">
-https://github.com/233boy/v2ray/issues 
+     https://github.com/233boy/v2ray/issues 
 </a>
 <br />
 任何有关于 V2Ray 的问题，请自行到 V2Ray 官方反馈。<br />
@@ -214,7 +215,7 @@ https://github.com/233boy/v2ray/issues
 
 <p>为了避免由于不可抗拒的原因所造成本人主动删除脚本，所以建议请将本脚本 Fork 一份<br />
 备份地址：<a href="https://github.com/233boy/v2ray/fork" rel="nofollow" target="_blank">
-https://github.com/233boy/v2ray/fork 
+     https://github.com/233boy/v2ray/fork 
 </a>
 <br />
 安装方法，确保你已经 Fork 了脚本，将 233boy 修改成你的 Github 用户名</p>
@@ -226,9 +227,9 @@ chmod +x install.sh
 </code></pre>
 
 <div class="post-ad">
-
-
-
+    
+    
+    
 </div>
 
 
@@ -247,14 +248,14 @@ chmod +x install.sh
 <h2 id="资助-v2ray">资助 V2Ray</h2>
 
 <p>如果你觉得 V2Ray 很好用，能解决你的某些问题，请考虑 <a href="https://www.v2ray.com/chapter_00/02_donate.html" rel="nofollow" target="_blank">
-资助 V2Ray 发展  
+     资助 V2Ray 发展  
 </a>
 。</p>
 
 <h2 id="感谢">感谢</h2>
 
 <p>V2Ray：<a href="https://www.v2ray.com/" rel="nofollow" target="_blank">
-https://www.v2ray.com/ 
+     https://www.v2ray.com/ 
 </a>
 </p>
 
@@ -270,3 +271,6 @@ https://www.v2ray.com/
 
 <p>请勿违反国家法律法规，否则后果自负！<br />
 使用一键脚本并不会害了你，并且会让你节省大量的时间，工具从来都是为了更快的解决问题。</p>
+
+<p><img src="https://affpass.com/ga?ga=UA-124886845-2&amp;dt=V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/1" alt="" /></p>
+</div>
